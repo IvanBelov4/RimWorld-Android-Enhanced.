@@ -21,11 +21,6 @@
       <Private>false</Private>
     </Reference>
 
-    <Reference Include="Verse">
-      <HintPath>$(RimWorldManagedDir)/Verse.dll</HintPath>
-      <Private>false</Private>
-    </Reference>
-
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>$(RimWorldManagedDir)/UnityEngine.CoreModule.dll</HintPath>
       <Private>false</Private>
