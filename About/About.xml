@@ -1,0 +1,16 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RimWorld Android Enhanced</name>
+  <author>IvanBelov4</author>
+  <packageId>IvanBelov4.RimWorldAndroidEnhanced</packageId>
+  <supportedVersions>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>
+    RimWorld Android Enhanced.
+    Mobile interface improvements,
+    performance optimizations and
+    tactical control features for Android.
+  </description>
+</ModMetaData>
